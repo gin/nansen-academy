@@ -1,0 +1,19 @@
+{
+  "name": "Nansen Academy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nft"],
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.4.6",
+    "hardhat": "^2.6.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.1",
+    "dotenv": "^10.0.0"
+  }
+}
